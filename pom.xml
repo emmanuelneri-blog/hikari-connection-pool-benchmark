@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>br.com.emmanuelneri</groupId>
-	<artifactId>hikari-connection-pool-benchmarking</artifactId>
+	<artifactId>hikari-connection-pool-benchmark</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>hikari-connection-pool-benchmarking</name>
-	<description>Connection Pool Benchmarking</description>
+	<name>hikari-connection-pool-benchmark</name>
+	<description>Connection Pool Benchmark</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
