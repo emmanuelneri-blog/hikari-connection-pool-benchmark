@@ -16,6 +16,7 @@ Código fonte do Post: [Melhorando performance do pool de conexões com Hikari](
  - ```create database cp-benchmarking-test```
  
 2 - Buildar projeto
+
   - ```git clone https://github.com/emmanuelneri-blog/hikari-connection-pool-benchmark.git```
   - ```cd hikari-connection-pool-benchmark```
   - ```mvn clean compile```
